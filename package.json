@@ -1,0 +1,19 @@
+{
+  "name": "largest-file",
+  "version": "0.0.1",
+  "description": "Find the largest file in a specify directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "haio",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/haio/largest-file.git"
+  },
+  "dependencies": {
+    "co": "~3.1.0",
+    "thunkify": "~2.1.2"
+  }
+}
